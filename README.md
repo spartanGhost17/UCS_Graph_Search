@@ -5,7 +5,7 @@ The starting tile is painted in red and the end tile yellow.
 The black tiles represent explored nodes (closed set)
 
 
-
-!["Agent Found Its Path!"](UCS_graph.png)
+# Agent Found Its Path!
+![Agent Found Its Path!](UCS_graph.png)
 
 
