@@ -6,5 +6,6 @@ The black tiles represent explored nodes (closed set)
 
 
 
-![Agent Found Its Path!](UCS_graph.png)
+!["Agent Found Its Path!"](UCS_graph.png)
+
 
